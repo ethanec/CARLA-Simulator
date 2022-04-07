@@ -1,6 +1,9 @@
 # CARLA-Simulator
 A simulator that allows vehicle doing autonomous driving research
 
+OS: Ubuntu 18.04
+version: 0.9.8
+
 To download the whole Carla Simulator, visit https://carla.org/2020/03/09/release-0.9.8/
 
 ## Execute a manual control scenario on CARLA-Simulator 
