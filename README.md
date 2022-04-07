@@ -2,7 +2,7 @@
 A simulator that allows vehicle doing autonomous driving research
 
 OS: Ubuntu 18.04
-version: 0.9.8
+/ version: 0.9.8
 
 To download the whole Carla Simulator, visit https://carla.org/2020/03/09/release-0.9.8/
 
@@ -15,9 +15,6 @@ To download the whole Carla Simulator, visit https://carla.org/2020/03/09/releas
     ./CarlaUE4.sh 
     ```
      ![](https://i.imgur.com/KsycU8E.jpg)
-
-
- 
 
 2. To change the scene of the map, execute config.py (optional) 
     ```
@@ -33,4 +30,3 @@ To download the whole Carla Simulator, visit https://carla.org/2020/03/09/releas
     python manual_control_mec.py  
     ```
     ![](https://i.imgur.com/gz8UUpT.jpg)
-
